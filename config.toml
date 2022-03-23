@@ -132,7 +132,7 @@ url = "https://gitlab.com/nsgwick/"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "About me"
 weight = 1
 url = "about/"
 
