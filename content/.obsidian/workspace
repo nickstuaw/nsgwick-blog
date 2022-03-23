@@ -1,0 +1,149 @@
+{
+  "main": {
+    "id": "2024cff9c9c5a4bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4e1be814456b1e7",
+        "type": "leaf",
+        "dimension": 54.54545454545454,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "contact.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "0be9a2c4bdd3eaa3",
+        "type": "leaf",
+        "dimension": 9.090909090909092,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "816698594372a24f",
+        "type": "leaf",
+        "dimension": 9.090909090909092,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "5b063f5856f82ed5",
+        "type": "leaf",
+        "dimension": 9.090909090909092,
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "3686ca530001f43a",
+        "type": "leaf",
+        "dimension": 9.090909090909092,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "2780754306c53a4e",
+        "type": "leaf",
+        "dimension": 9.090909090909092,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea15b9c01faf30be",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aa4bde9ff560721",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f3101f4e55af875",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a09ecbd94e46b18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "26c5a3af34c062a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c5632d005a97fd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a2aa17ab2b428e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "contact.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c4e1be814456b1e7",
+  "lastOpenFiles": [
+    "contact.md",
+    "projects.md",
+    "about.md",
+    "posts/markdown-syntax.md",
+    "posts/emoji-support.md",
+    "posts/external-post.md",
+    "posts/rich-content.md",
+    "posts/placeholder-text.md",
+    "posts/more-rich-content.md",
+    "posts/math-typesetting.md"
+  ]
+}
