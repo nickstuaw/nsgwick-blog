@@ -109,7 +109,7 @@ url = "https://github.com/nsgwick/"
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "www.linkedin.com/in/nick-williams-dev"
+url = "https://www.linkedin.com/in/nick-williams-dev"
 
 [[params.social]]
 name = "Instagram"
