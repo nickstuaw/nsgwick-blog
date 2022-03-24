@@ -5,4 +5,4 @@ slug = "contact"
 
 E-mail: nick.williams.14@outlook.com
 
-Instagram: [@nsgwick](https://www.instagram.com/nsgwick/)
+Instagram: [@nick.s.g.will](https://www.instagram.com/nick.s.g.will/)
