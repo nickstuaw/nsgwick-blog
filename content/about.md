@@ -20,7 +20,7 @@ One more creative hobby of mine is occasional music production. I use [Ableton L
 
 I'm currently reading [The 5AM Club](https://www.amazon.co.uk/5-AM-Club-Robin-Sharma/dp/0008312834) by Robin Sharma, [The Art of Resilience](https://www.amazon.co.uk/Art-Resilience-Ross-Edgley/dp/000835698X) by Ross Edgley, [Good Vibes Good Life](https://www.amazon.co.uk/Good-Vibes-Life-Self-Love-Unlocking/dp/1788171829) by Vex King, and I'm working through [The C Programming Language](https://www.amazon.co.uk/gp/product/0131103628/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1) by K & R.
 
-Of course I like to play a game now and then. I sometimes play on [my private Minecraft server](https://www.planetminecraft.com/server/the-chill-nw-smp/) and I enjoy playing [Forza Horizon 5](https://store.steampowered.com/app/1551360/Forza_Horizon_5/) now and then when I feel like it.
+Of course I like to play a game now and then. I sometimes play on [my private Minecraft server](https://www.planetminecraft.com/server/the-chill-nw-smp/) and I enjoy playing [Forza Horizon 5](https://store.steampowered.com/app/1551360/Forza_Horizon_5/) a little now and then when I feel like it.
 
 I bought my PC on 3rd September 2020, making it almost 2 years old. It still works as new, with an AMD Ryzen 9 3900X, NVIDIA RTX 2070 Super. 32GB 3000MHz DDR4 RAM, and a heck of a lot of storage. Not to mention my 32" monitor (which I chose for coding purposes).
 
