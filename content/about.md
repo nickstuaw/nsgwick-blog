@@ -22,7 +22,7 @@ I'm currently reading [The 5AM Club](https://www.amazon.co.uk/5-AM-Club-Robin-Sh
 
 Of course I like to play a game now and then. I sometimes play on [my private Minecraft server](https://www.planetminecraft.com/server/the-chill-nw-smp/) and I enjoy playing [Forza Horizon 5](https://store.steampowered.com/app/1551360/Forza_Horizon_5/) a little now and then when I feel like it.
 
-I bought my PC on 3rd September 2020, making it almost 2 years old. It still works as new, with an AMD Ryzen 9 3900X, NVIDIA RTX 2070 Super. 32GB 3000MHz DDR4 RAM, and a heck of a lot of storage. Not to mention my 32" monitor (which I chose for coding purposes).
+My PC arrived on 3rd September 2020, making it almost 2 years old. It still works as new, with an AMD Ryzen 9 3900X, NVIDIA RTX 2070 Super. 32GB 3000MHz DDR4 RAM, and a heck of a lot of storage. Not to mention my 32" monitor (which I chose for coding purposes).
 
 If you wish to contact me in the gaming world, you can add me on Discord as `@Glo-strode#0001`. My Steam username is `CITNALENCIAGA`, and my Minecraft IGN is the one and only `Glostrode`. I do not game a lot for the sake of my health and productivity. I like this quote:
 
