@@ -6,7 +6,7 @@
       {
         "id": "c4e1be814456b1e7",
         "type": "leaf",
-        "dimension": 54.54545454545454,
+        "dimension": 59.99999999999999,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "0be9a2c4bdd3eaa3",
         "type": "leaf",
-        "dimension": 9.090909090909092,
+        "dimension": 10,
         "state": {
           "type": "empty",
           "state": {}
@@ -28,7 +28,7 @@
       {
         "id": "816698594372a24f",
         "type": "leaf",
-        "dimension": 9.090909090909092,
+        "dimension": 10,
         "state": {
           "type": "empty",
           "state": {}
@@ -37,7 +37,7 @@
       {
         "id": "5b063f5856f82ed5",
         "type": "leaf",
-        "dimension": 9.090909090909092,
+        "dimension": 10,
         "state": {
           "type": "graph",
           "state": {}
@@ -46,16 +46,7 @@
       {
         "id": "3686ca530001f43a",
         "type": "leaf",
-        "dimension": 9.090909090909092,
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
-        "id": "2780754306c53a4e",
-        "type": "leaf",
-        "dimension": 9.090909090909092,
+        "dimension": 10,
         "state": {
           "type": "empty",
           "state": {}
