@@ -6,6 +6,8 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Hugo Authors"
 +++
 
+# About me
+
 Hey!
 I'm Nick, from the UK, and I am completing a BTEC National Extended Diploma in Digital Development.
 
@@ -13,7 +15,7 @@ I'm Nick, from the UK, and I am completing a BTEC National Extended Diploma in D
 > As you live each day, so you craft your life.<br>  
 > — Robin Sharma
 
-My hobbies largely consist of [programming](https://www.github.com/nsgwick/), reading, drawing and running. I sometimes do photography too, and have quite a large portfolio of pictures on Instagram ([@nicksphotos.\_](https://www.instagram.com/nicksphotos._)).
+My hobbies largely consist of [programming](https://www.github.com/nsgwick/), reading, drawing, running, swimming, and cycling. I sometimes do photography too, and have quite a large portfolio of pictures on Instagram ([@nicksphotos.\_](https://www.instagram.com/nicksphotos._)).
 I keep my drawing Instagram account updated with scans of my latest drawings, and usually delete older drawings. You can check out my latest ones by following [@nick\_.\_art](https://www.instagram.com/nick_._art/).
 
 One more creative hobby of mine is occasional music production. I use [Ableton Live](https://www.ableton.com/en/live/) 10 Standard as my DAW and publish tracks on the music platforms as Glostrode ([Spotify artist page](https://open.spotify.com/artist/7errC26iwGliXFBlzXEgUu?si=0WZoMriCR7OCwrOlwYQn-A)).
