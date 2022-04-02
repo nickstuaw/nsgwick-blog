@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "about.md",
+            "file": "contact.md",
             "mode": "source",
             "source": false
           }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "about.md",
+                "file": "contact.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,10 +99,10 @@
   },
   "active": "5b063f5856f82ed5",
   "lastOpenFiles": [
+    "contact.md",
     "about.md",
     "projects.md",
     "Hello.md",
-    "contact.md",
     "posts/markdown-syntax.md",
     "posts/emoji-support.md",
     "posts/external-post.md",
