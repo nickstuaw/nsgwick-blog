@@ -122,12 +122,6 @@ icon = "fa fa-2x fa-spotify"
 weight = 6
 url = "https://open.spotify.com/artist/7errC26iwGliXFBlzXEgUu?si=0WZoMriCR7OCwrOlwYQn-A"
 
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-2x fa-gitlab"
-weight = 7
-url = "https://gitlab.com/nsgwick/"
-
 [languages.en]
 languageName = ":uk:"
 
