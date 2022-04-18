@@ -48,6 +48,6 @@ Here are some of my favourites that I have developed:
 * [A discord bot that teaches Italian](https://github.com/nsgwick/wldcitalian)
 * [SQLTemplate (Java, for an MC plugin)](https://github.com/nsgwick/SQLTemplate)
 
-I've known of programming since the age of ~10 (starting with Python).
+I've known of programming since the age of ~10 (starting with Scratch and Python).
 {{< /notice >}}
 
