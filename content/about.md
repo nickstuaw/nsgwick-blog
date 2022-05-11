@@ -22,7 +22,7 @@ One more creative hobby of mine is occasional music production. I use [Ableton L
 
 I'm currently reading [The 5AM Club](https://www.amazon.co.uk/5-AM-Club-Robin-Sharma/dp/0008312834) by Robin Sharma, [The Art of Resilience](https://www.amazon.co.uk/Art-Resilience-Ross-Edgley/dp/000835698X) by Ross Edgley and [Good Vibes Good Life](https://www.amazon.co.uk/Good-Vibes-Life-Self-Love-Unlocking/dp/1788171829) by Vex King.
 
-Of course I may play a game now and then. I occasionally play [Minecraft on my whitelisted server](https://www.planetminecraft.com/server/the-chill-nw-smp/).
+Of course I may play a game now and then. I occasionally play [Minecraft on my whitelisted server](https://play.nsgwick.com/showthread.php?tid=2&pid=2#pid2).
 
 If you wish to contact me in the gaming world, you can add me on Discord as `@Glo-strode#0001`. My Steam username is `CITNALENCIAGA`, and my Minecraft IGN is the one and only `Glostrode`.
 
